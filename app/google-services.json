@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "729869507972",
+    "project_id": "happykingdom-f980c",
+    "storage_bucket": "happykingdom-f980c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:729869507972:android:46c6c8de98f19fc49fd1d1",
+        "android_client_info": {
+          "package_name": "com.enu.happykingdom"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "729869507972-tok4ah6shd17s9nrvlefcjatetfgf1v7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBs4K24gmdxM4Yyto87_foj0DaZEfTltKo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "729869507972-tok4ah6shd17s9nrvlefcjatetfgf1v7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
